@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\bin\Debug\stingChameleonPA.exe.config
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\bin\Debug\stingChameleonPA.exe
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\bin\Debug\stingChameleonPA.pdb
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\bin\Debug\stingChameleonPA.xml
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.vbprojAssemblyReference.cache
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.Form1.resources
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.Resources.resources
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.exe
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.xml
+\\Mac\Home\Documents\01. PUSPAKIRANA\05. Semester 5\00. PA\stingChameleonPA\stingChameleonPA\obj\Debug\stingChameleonPA.pdb
